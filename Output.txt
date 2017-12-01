@@ -1,0 +1,10 @@
+Microsoft Windows [Version 10.0.16299.64]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Bharat's PC>cd C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 9\src
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 9\src>javac FourThreadProg.java
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 9\src>java FourThreadProg
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 9\src>
